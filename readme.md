@@ -14,12 +14,12 @@
 
 <h4>Click the button below to deploy Yukki Music Bot on Heroku!</h4>    
 <h4>If You show any error like failed to app Creation Then fork and deploy </h4>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/TheTeamVivek/YukkiMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Rajputshivsingh65/PATEL-V2"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200""/></a>
 
 
 ## 🖇 VPS Deployment
-- Get your [Necessary Variables](https://github.com/TheTeamVivek/YukkiMusic/blob/master/sample.env)
-- clone repo : `git clone https://github.com/TheTeamVivek/YukkiMusic && cd YukkiMusic`
+- Get your [Necessary Variables](https://github.com/Rajputshivsingh65/PATEL-V2/blob/master/sample.env)
+- clone repo : `git clone https://github.com/Rajputshivsingh65/PATEL-V2 && cd PATEL-V2`
 - Setup by : `bash setup`
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
@@ -29,7 +29,7 @@
 
 
 # Yukki Music Configs
- [Checkout Here For Config Vars](https://github.com/TheTeamVivek/YukkiMusic/blob/master/config/README.md)
+ [Checkout Here For Config Vars](https://github.com/Rajputshivsingh65/PATEL-V2/blob/master/config/README.md)
 # 🏷 Support / Assistance
 
 Reach out to the maintainer at one of the following places:
@@ -41,7 +41,7 @@ Reach out to the maintainer at one of the following places:
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
 - Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the [Repo](https://github.com/TheTeamVivek/YukkiMusic) :)
+- Fork the [Repo](https://github.com/Rajputshivsingh65/PATEL-V2) :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 Together, we can make **YukkiMusic** better!
